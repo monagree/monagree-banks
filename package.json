@@ -1,0 +1,39 @@
+{
+    "name": "monagree-banks",
+    "version": "1.0.10",
+    "description": "Nigerian Banks and thier Bank Codes (aids in payment Gateways)",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+      "dist",
+      "readme.md"
+    ],
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "tsc"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/monagree/monagree-banks.git"
+    },
+    "keywords": [
+      "Monagree",
+      "Banks",
+      "bank Codes",
+      "Flutterwave",
+      "Paystack",
+      "Payment Gateways",
+      "Nigeria"
+    ],
+    "author": "Monagree",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/monagree/monagree-banks/issues"
+    },
+    "homepage": "developers.monagree.com",
+    "devDependencies": {
+      "@types/node": "^20.10.8",
+      "typescript": "^5.3.3"
+    }
+  }
+  
