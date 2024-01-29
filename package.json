@@ -1,6 +1,6 @@
 {
     "name": "monagree-banks",
-    "version": "1.0.10",
+    "version": "1.0.0",
     "description": "Nigerian Banks and thier Bank Codes (aids in payment Gateways)",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",

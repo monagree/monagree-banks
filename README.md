@@ -1,3 +1,7 @@
+# Important Note
+
+Please note that you use this package at your own risk. We do not guarantee that the `bank_codes` here are 100% accurate and wrong bank codes can lead to financial loss in rare, but possible, scenarios (especially when used with payment gateways ). For reference, we got the codes from [ACCESS BANK WEBSITE](https://primusplus.accessbankplc.com/Payment/PaymentFormat/BankCode.pdf)
+
 # Monagree Banks Code
 
 To install, run:
